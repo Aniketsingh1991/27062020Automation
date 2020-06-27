@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+D:\27062020\27062020Automation\.metadata\.plugins\org.eclipse.jdt.core
+2919742172.index
